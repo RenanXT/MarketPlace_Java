@@ -35,11 +35,11 @@ O objetivo do projeto foi colocar em prática conceitos de desenvolvimento back-
 
 # Imagens do Projeto
  
- ### Tela de login 
+  ### Tela de login 
 <img width="1920" height="1080" alt="Captura de Tela (468)" src="https://github.com/user-attachments/assets/0dd60458-d4d1-492e-827c-11af2fdf639a" />
- ### Tela de Cadastro
+  ### Tela de Cadastro
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bd92c71-bc38-46ba-b803-0c77e48c7547" />
- ### pagina Inicial 
+  ### pagina Inicial 
 <img width="1920" height="1080" alt="Captura de Tela (469)" src="https://github.com/user-attachments/assets/5003a2d5-7d6c-474d-a686-2bdebf9450fa" />
 
 ## Como executar
